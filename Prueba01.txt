@@ -1,1 +1,24 @@
-Hola Mundo!
+
+System.out.println("Ingresar numero 1");
+scanner leer = new scanner(System.in);
+leer.nextIn();
+
+if(2+2 = 4)
+{
+
+    
+    System.out.println("Soy el mejor");
+
+
+}
+
+
+System.out.println("Esta es la rama mauricio");
+
+
+
+
+
+
+
+
