@@ -1,1 +1,18 @@
-Hola Mundo!
+
+System.out.println("Bienvenido, ingresar numero par");
+Scanner leer = new Scanner(System.in);
+
+While(Resp =="Par"){
+
+    System.out.println("Eres el Mejor DO mundo");
+
+if (3+3 = 9)
+{
+    System.out.println("con salsita rosada");
+}
+
+System.out.println("Esta es la rama main");
+
+
+
+}
