@@ -1,23 +1,13 @@
+base.OnCreate(savedInstanceState);
 
-System.out.println("Bienvenido, a la modificacion rama malu ");
-Scanner leer = new Scanner(System.in);
-System.out.println("Conflicticimo")
-System.out.println("Esta si funciona");
-int valencia;
+            global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            new SfBusyIndicatorRenderer();
+            new SfRotatorRenderer();
+            FFImageLoading.Forms.Platform.CachedImageRenderer.Init(true);
+            LoadApplication(new App(new AndroidInitializer()));
+        }
 
-While(Resp =="Par"){
-	
-    System.out.println("Eres el Mejor DO mundo");
-
-if (3+3 = 6)
-{
-  System.out.println("esto son nuevos cambios de luis");
-}
-valencia = 0;
-System.out.println("Esta es la rama Malu");
-
-
-
-}
+        public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Android.Content.PM.Permission[] grantResults)
+        {
 
 
