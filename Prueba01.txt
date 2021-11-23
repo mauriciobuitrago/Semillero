@@ -1,3 +1,15 @@
+
+public static void main(string arg[]){
+
+  System.out.println("Esta es la nueva y mejorada modificacion de carlos")
+  int a=0;
+  int contador=0;
+  if(if=0){
+    https://github.com/mauriciobuitrago/Semillero.git;
+    contador++;
+    
+  }
+}
 base.OnCreate(savedInstanceState);
 
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
@@ -9,5 +21,4 @@ base.OnCreate(savedInstanceState);
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Android.Content.PM.Permission[] grantResults)
         {
-
 
