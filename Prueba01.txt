@@ -3,16 +3,17 @@ System.out.println("Bienvenido, a la modificacion rama malu ");
 Scanner leer = new Scanner(System.in);
 System.out.println("Conflicticimo")
 System.out.println("Esta si funciona");
+int valencia;
+
 While(Resp =="Par"){
 	
     System.out.println("Eres el Mejor DO mundo");
 
 if (3+3 = 6)
 {
-    System.out.println("con salsita roja, piña, pizza y cerveza fria ");
-    System.out.println("la suma es :");
+  System.out.println("esto son nuevos cambios de luis");
 }
-
+valencia = 0;
 System.out.println("Esta es la rama Malu");
 
 
