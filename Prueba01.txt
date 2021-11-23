@@ -1,5 +1,5 @@
-//Prueba buena
-System.out.println("Bienvenido, ingresar numero par");
+
+System.out.println("Bienvenido, a la modificacion rama malu ");
 Scanner leer = new Scanner(System.in);
 System.out.println("Conflicticimo")
 System.out.println("Esta si funciona");
@@ -7,12 +7,13 @@ While(Resp =="Par"){
 	
     System.out.println("Eres el Mejor DO mundo");
 
-if (3+3 = 9)
+if (3+3 = 6)
 {
     System.out.println("con salsita roja, piña, pizza y cerveza fria ");
+    System.out.println("la suma es :");
 }
 
-System.out.println("Esta es la rama main");
+System.out.println("Esta es la rama Malu");
 
 
 
