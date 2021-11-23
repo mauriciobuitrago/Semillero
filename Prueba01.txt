@@ -1,4 +1,4 @@
-//Prueba 2
+//Prueba 3
 System.out.println("Bienvenido, ingresar numero par");
 Scanner leer = new Scanner(System.in);
 
@@ -8,7 +8,7 @@ While(Resp =="Par"){
 
 if (3+3 = 9)
 {
-    System.out.println("con salsita roja y piña");
+    System.out.println("con salsita roja, piña y pizza");
 }
 
 System.out.println("Esta es la rama main");
