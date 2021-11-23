@@ -1,5 +1,5 @@
 
-System.out.println("Bienvenido, ingresar numero ");
+System.out.println("Bienvenido, a la modificacion rama malu ");
 Scanner leer = new Scanner(System.in);
 
 While(Resp =="Par"){
@@ -11,7 +11,7 @@ if (3+3 = 6)
     System.out.println("la suma es :");
 }
 
-System.out.println("Esta es la rama main");
+System.out.println("Esta es la rama Malu");
 
 
 
