@@ -1,3 +1,4 @@
+
 public static void main(string arg[]){
 
   System.out.println("Esta es la nueva y mejorada modificacion de carlos")
@@ -9,3 +10,15 @@ public static void main(string arg[]){
     
   }
 }
+base.OnCreate(savedInstanceState);
+
+            global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            new SfBusyIndicatorRenderer();
+            new SfRotatorRenderer();
+            FFImageLoading.Forms.Platform.CachedImageRenderer.Init(true);
+            LoadApplication(new App(new AndroidInitializer()));
+        }
+
+        public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Android.Content.PM.Permission[] grantResults)
+        {
+
